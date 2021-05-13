@@ -18,7 +18,7 @@ driver.find_element_by_id('menu-item-50').click()
 driver.find_element_by_id('reg_email').send_keys("ahihi@gmail.com")
 
 elem = driver.find_element_by_id('reg_password')
-elem.send_keys("123456")
+elem.send_keys("3KVfE7BvLaTc@7E")
 
 time.sleep(5)
 driver.find_element_by_class_name('register').click()
